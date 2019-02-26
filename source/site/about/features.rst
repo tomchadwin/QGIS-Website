@@ -16,19 +16,6 @@ For Windows, Mac, Linux, BSD and Android.
    A screenshot of QGIS Desktop
 
 
-QGIS Browser
-------------
-
-Browse and preview your data and metadata.
-
-Drag and drop your data from one datastore into the other one.
-
-.. figure:: /static/site/about/images/qgisbrowserscreenshot.png
-   :alt: QGIS Browser
-
-   A screenshot of QGIS Browser
-
-
 QGIS Server
 -----------
 
